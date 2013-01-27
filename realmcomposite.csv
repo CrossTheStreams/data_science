@@ -1,0 +1,499 @@
+Server,Timezone,ServerType,HordePop,AlliancePop
+Aerie Peak,PST,PVE,1410,4262
+Antonidas,PST,PVE,306,785
+Anvilmar,PST,PVE,146,2386
+Arathor,PST,PVE,1195,2375
+Azuremyst,PST,PVE,9,7
+Baelgun,PST,PVE,1347,2348
+Blade's Edge,PST,PVE,1331,1793
+Bladefist,PST,PVE,3162,124
+Bronzebeard,PST,PVE,2300,2772
+Cenarius,PST,PVE,637,2291
+Draenor,PST,PVE,1237,2164
+Dragonblight,PST,PVE,1128,1981
+Echo Isles,PST,PVE,16,23
+Galakrond,PST,PVE,10,29
+Gnomeregan,PST,PVE,916,2152
+Hyjal,PST,PVE,6599,2086
+Kilrogg,PST,PVE,2990,4451
+Korialstrasz,PST,PVE,133,1057
+Lightbringer,PST,PVE,2245,2307
+Misha,PST,PVE,392,1844
+Moonrunner,PST,PVE,9,11
+Nordrassil,PST,PVE,334,69
+Proudmoore,PST,PVE,44,6869
+Shadowsong,PST,PVE,791,1383
+Shu'halo,PST,PVE,3567,5963
+Silvermoon,PST,PVE,1379,1927
+Skywall,PST,PVE,1051,3138
+Suramar,PST,PVE,1767,1875
+Uldum,PST,PVE,1050,1658
+Uther,PST,PVE,12,1483
+Velen,PST,PVE,5,3
+Windrunner,PST,PVE,471,2138
+Blackrock,PST,PVP,2265,378
+Blackwing Lair,PST,PVP,6,114
+Bonechewer,PST,PVP,13,12
+Boulderfist,PST,PVP,16,8
+Coilfang,PST,PVP,361,127
+Crushridge,PST,PVP,694,601
+Daggerspine,PST,PVP,9,2
+Dark Iron,PST,PVP,8,340
+Darrowmere,PST,PVP,23,9
+Destromath,PST,PVP,11,5
+Dethecus,PST,PVP,5,1
+Dragonmaw,PST,PVP,16,4
+Dunemaul,PST,PVP,12,8
+Frostwolf,PST,PVP,26,45
+Gorgonnash,PST,PVP,64,71
+Gurubashi,PST,PVP,5,0
+Kalecgos,PST,PVP,6,5
+Kil'Jaeden,PST,PVP,4990,2978
+Lethon,PST,PVP,1,1
+Maiev,PST,PVP,6,6
+Nazjatar,PST,PVP,71,2
+Ner'zhul,PST,PVP,24,1319
+Onyxia,PST,PVP,4,0
+Rivendare,PST,PVP,4,0
+Shattered Halls,PST,PVP,5,4
+Spinebreaker,PST,PVP,1816,5
+Spirestone,PST,PVP,6,8
+Stonemaul,PST,PVP,6,5
+Stormscale,PST,PVP,17,8
+Tichondrius,PST,PVP,7151,9182
+Ursin,PST,PVP,5,4
+Vashj,PST,PVP,1788,1741
+Blackwater Raiders,PST,RP,828,1656
+Cenarion Circle,PST,RP,18,1675
+Feathermoon,PST,RP,59,4727
+Sentinels,PST,RP,246,7
+Silver Hand,PST,RP,2258,107
+The Scryers,PST,RP,1536,473
+Wyrmrest Accord,PST,RP,1390,2887
+The Venture Co,PST,RP-PVP,25,951
+Azjol-Nerub,MST,PVE,1575,3720
+Doomhammer,MST,PVE,63,4092
+Icecrown,MST,PVE,10,6
+Perenolde,MST,PVE,17,27
+Terenas,MST,PVE,1263,3278
+Zangarmarsh,MST,PVE,7,12
+Bloodscalp,MST,PVP,839,349
+Darkspear,MST,PVP,2711,9019
+Deathwing,MST,PVP,7,3
+Kel'Thuzad,MST,PVP,1,60
+Nathrezim,MST,PVP,2,3
+Shadow Council,MST,RP,5,66
+Aggramar,CST,PVE,179,391
+Alexstrasza,CST,PVE,2034,4348
+Alleria,CST,PVE,844,3066
+Blackhand,CST,PVE,2061,2286
+Borean Tundra,CST,PVE,546,1122
+Cairne,CST,PVE,209,183
+Dawnbringer,CST,PVE,14,32
+Draka,CST,PVE,1105,48
+Eitrigg,CST,PVE,932,2241
+Fizzcrank,CST,PVE,1501,2897
+Gallywix,CST,PVE,8,2
+Garona,CST,PVE,305,689
+Ghostlands,CST,PVE,23,937
+Goldrinn,CST,PVE,22,37
+Greymane,CST,PVE,284,553
+Hellscream,CST,PVE,467,5854
+Hydraxis,CST,PVE,26,844
+Kael'Thas,CST,PVE,260,496
+Khaz Modan,CST,PVE,14,262
+Kul Tiras,CST,PVE,9,7
+Madoran,CST,PVE,218,285
+Malfurion,CST,PVE,2130,6320
+Malygos,CST,PVE,157,389
+Mok'Nathal,CST,PVE,9,10
+Muradin,CST,PVE,1073,2069
+Nesingwary,CST,PVE,561,1621
+Quel'dorei,CST,PVE,6,21
+Quel'Thalas,CST,PVE,19,20
+Ravencrest,CST,PVE,361,1005
+Rexxar,CST,PVE,2083,2157
+Runetotem,CST,PVE,1617,1368
+Sen'jin,CST,PVE,2420,3259
+Staghelm,CST,PVE,202,296
+Terokkar,CST,PVE,18,839
+Thunderhorn,CST,PVE,3769,2231
+Vek'nilash,CST,PVE,641,1558
+Whisperwind,CST,PVE,966,7697
+Winterhoof,CST,PVE,11,24
+Aegwynn,CST,PVP,6,22
+Agamaggan,CST,PVP,42,57
+Akama,CST,PVP,8,261
+Archimonde,CST,PVP,2,8
+Azgalor,CST,PVP,1148,697
+Azralon,CST,PVP,161,7
+Balnazzar,CST,PVP,445,216
+Blood Furnace,CST,PVP,2,1
+Burning Legion,CST,PVP,946,600
+Cho'gall,CST,PVP,1714,78
+Chromaggus,CST,PVP,188,38
+Detheroc,CST,PVP,9,1
+Drak'Tharon,CST,PVP,0,1
+Drak'thul,CST,PVP,1656,2173
+Drakkari,CST,PVP,23,19
+Frostmane,CST,PVP,5,10
+Garithos,CST,PVP,1,11
+Gul'dan,CST,PVP,8,2
+Hakkar,CST,PVP,2,1
+Illidan,CST,PVP,117,1
+Korgath,CST,PVP,27,56
+Laughing Skull,CST,PVP,12,6
+Mal'Ganis,CST,PVP,1942,0
+Malorne,CST,PVP,8,5
+Mug'thol,CST,PVP,3790,248
+Nemesis,CST,PVP,27,34
+Ragnaros,CST,PVP,71,49
+Sargeras,CST,PVP,5,94
+Stormreaver,CST,PVP,52,29
+The Underbog,CST,PVP,1325,2
+Thunderlord,CST,PVP,7,7
+Tol Barad,CST,PVP,24,12
+Wildhammer,CST,PVP,16,7
+Farstriders,CST,RP,8,922
+Kirin Tor,CST,RP,1729,55
+Moon Guard,CST,RP,976,7566
+Scarlet Crusade,CST,RP,5,1834
+Sisters of Elune,CST,RP,337,400
+Thorium Brotherhood,CST,RP,8,51
+Emerald Dream,CST,RP-PVP,11713,16356
+Lightninghoof,CST,RP-PVP,54,252
+Maelstrom,CST,RP-PVP,62,196
+Twisting Nether,CST,RP-PVP,772,631
+Area 52,EST,PVE,13011,886
+Arygos,EST,PVE,4,13
+Bloodhoof,EST,PVE,6,11
+Dalaran,EST,PVE,811,773
+Drenden,EST,PVE,16,7
+Durotan,EST,PVE,13,34
+Duskwood,EST,PVE,1499,2362
+Eldre'Thalas,EST,PVE,7,17
+Elune,EST,PVE,49,17
+Eonar,EST,PVE,11,51
+Exodar,EST,PVE,6,3
+Fenris,EST,PVE,18,15
+Garrosh,EST,PVE,8,23
+Gilneas,EST,PVE,9,21
+Grizzly Hills,EST,PVE,7,24
+Kargath,EST,PVE,864,1731
+Khadgar,EST,PVE,11,14
+Llane,EST,PVE,6,4
+Lothar,EST,PVE,7,11
+Medivh,EST,PVE,23,42
+Nazgrel,EST,PVE,14,25
+Norgannon,EST,PVE,1197,546
+Shandris,EST,PVE,63,4329
+Stormrage,EST,PVE,4,3437
+Tanaris,EST,PVE,16,38
+Thrall,EST,PVE,2343,517
+Trollbane,EST,PVE,16,5
+Turalyon,EST,PVE,11,9
+Uldaman,EST,PVE,8,20
+Undermine,EST,PVE,291,1189
+Ysera,EST,PVE,4366,4561
+Zul'jin,EST,PVE,35,10
+Altar of Storms,EST,PVP,1132,669
+Alterac Mountains,EST,PVP,1263,2271
+Andorhal,EST,PVP,1271,24
+Anetheron,EST,PVP,1,7
+Anub'arak,EST,PVP,0,0
+Arthas,EST,PVP,1794,628
+Auchindoun,EST,PVP,426,461
+Azshara,EST,PVP,4,1
+Black Dragonflight,EST,PVP,7,1
+Bleeding Hollow,EST,PVP,2685,3562
+Burning Blade,EST,PVP,1441,579
+Dalvengyr,EST,PVP,28,1
+Demon Soul,EST,PVP,2,4
+Dentarg,EST,PVP,3,0
+Eredar,EST,PVP,11,5
+Executus,EST,PVP,1092,620
+Firetree,EST,PVP,7,1
+Gorefiend,EST,PVP,1623,7
+Haomarush,EST,PVP,3,0
+Jaedenar,EST,PVP,4,1
+Lightning's Blade,EST,PVP,27,7
+Magtheridon,EST,PVP,30,16
+Mannoroth,EST,PVP,10,29
+Scilla,EST,PVP,3,0
+Shadowmoon,EST,PVP,21,9
+Shattered Hand,EST,PVP,25,6
+Skullcrusher,EST,PVP,18,12
+Smolderthorn,EST,PVP,6,0
+The Forgotten Coast,EST,PVP,1241,1221
+Tortheldrin,EST,PVP,3,3
+Warsong,EST,PVP,0,2
+Ysondre,EST,PVP,2,3
+Zuluhed,EST,PVP,7,5
+Argent Dawn,EST,RP,1414,2265
+Earthen Ring,EST,RP,6377,5641
+Steamwheedle Cartel,EST,RP,966,1194
+Ravenholdt,EST,RP-PVP,688,338
+Unknown,GMT,PVE,0,0
+EU-Aerie Peak,CET,PVE,1636,34
+EU-Aggramar,CET,PVE,1564,2263
+EU-Alexstrasza,CET,PVE,129,354
+EU-Alleria,CET,PVE,6,81
+EU-Alonsus,CET,PVE,5,114
+EU-Aman'Thul,CET,PVE,14,65
+EU-Ambossar,CET,PVE,9,4
+EU-Anachronos,CET,PVE,11,83
+EU-Antonidas,CET,PVE,201,20940
+EU-Arathor,CET,PVE,27,39
+EU-Area 52,CET,PVE,846,46
+EU-Arygos,CET,PVE,7,53
+EU-Aszune,CET,PVE,255,3431
+EU-Azjol-Nerub,CET,PVE,9,42
+EU-Azuremyst,CET,PVE,12,85
+EU-Baelgun,CET,PVE,10,3206
+EU-Blackhand,CET,PVE,28,47
+EU-Blade's Edge,CET,PVE,393,74
+EU-Bloodhoof,CET,PVE,35,32
+EU-Bronze Dragonflight,CET,PVE,193,80
+EU-Bronzebeard,CET,PVE,9,431
+EU-Chamber of Aspects,CET,PVE,29,8
+EU-Chants éternels,CET,PVE,0,0
+EU-Colinas Pardas,CET,PVE,3,4
+EU-Dalaran,CET,PVE,1,4
+EU-Darkspear,CET,PVE,19,113
+EU-Doomhammer,CET,PVE,20,37
+EU-Draenor,CET,PVE,15653,1928
+EU-Dragonblight,CET,PVE,20,33
+EU-Drek'Thar,CET,PVE,11,7
+EU-Dun Morogh,CET,PVE,2673,11376
+EU-Durotan,CET,PVE,7,26
+EU-Eitrigg,CET,PVE,407,4
+EU-Elune,CET,PVE,1,4
+EU-Emerald Dream,CET,PVE,17,38
+EU-Eonar,CET,PVE,10,17
+EU-Exodar,CET,PVE,0,0
+EU-Garrosh,CET,PVE,13,22
+EU-Ghostlands,CET,PVE,15,4
+EU-Gilneas,CET,PVE,12,2010
+EU-Hellfire,CET,PVE,35,3178
+EU-Hellscream,CET,PVE,37,43
+EU-Hyjal,CET,PVE,1308,2
+EU-Kargath,CET,PVE,416,4826
+EU-Khadgar,CET,PVE,23,77
+EU-Khaz Modan,CET,PVE,8,5
+EU-Khaz'goroth,CET,PVE,6,55
+EU-Kilrogg,CET,PVE,20,7
+EU-Krasus,CET,PVE,1,5
+EU-Kul Tiras,CET,PVE,736,7282
+EU-Lightbringer,CET,PVE,3132,3946
+EU-Lordaeron,CET,PVE,187,758
+EU-Lothar,CET,PVE,9,41
+EU-Madmortem,CET,PVE,1735,1239
+EU-Magtheridon,CET,PVE,3130,4822
+EU-Malfurion,CET,PVE,9,340
+EU-Malorne,CET,PVE,191,427
+EU-Malygos,CET,PVE,3,48
+EU-Marécage de Zangar,CET,PVE,0,0
+EU-Mazrigos,CET,PVE,37,1167
+EU-Medivh,CET,PVE,0,4
+EU-Minahonda,CET,PVE,0,2
+EU-Nagrand,CET,PVE,25,12
+EU-Nethersturm,CET,PVE,12,2
+EU-Nordrassil,CET,PVE,12,12
+EU-Norgannon,CET,PVE,5,30
+EU-Nozdormu,CET,PVE,5,1588
+EU-Perenolde,CET,PVE,5,32
+EU-Pozzo dell'Eternità,CET,PVE,0,0
+EU-Proudmoore,CET,PVE,2,32
+EU-Quel'Thalas,CET,PVE,29,13
+EU-Rexxar,CET,PVE,7,57
+EU-Runetotem,CET,PVE,7,10
+EU-Sanguino,CET,PVE,11,0
+EU-Saurfang,CET,PVE,11,9
+EU-Sen'jin,CET,PVE,193,621
+EU-Shadowsong,CET,PVE,3185,3595
+EU-Shattrath,CET,PVE,12,12
+EU-Silvermoon,CET,PVE,75,9672
+EU-Stormrage,CET,PVE,24,13
+EU-Suramar,CET,PVE,0,8
+EU-Teldrassil,CET,PVE,7,3595
+EU-Terenas,CET,PVE,1637,40
+EU-Terokkar,CET,PVE,29,6106
+EU-Thrall,CET,PVE,31,30
+EU-Thunderhorn,CET,PVE,100,5962
+EU-Tichondrius,CET,PVE,3,30
+EU-Tirion,CET,PVE,4,5
+EU-Turalyon,CET,PVE,13,475
+EU-Tyrande,CET,PVE,3,5
+EU-Uldaman,CET,PVE,0,3
+EU-Ulduar,CET,PVE,12,5
+EU-Un'Goro,CET,PVE,293,364
+EU-Varimathras,CET,PVE,8,4
+EU-Vek'nilash,CET,PVE,441,12
+EU-Vol'jin,CET,PVE,0,10
+EU-Wildhammer,CET,PVE,31,14
+EU-Ysera,CET,PVE,785,2238
+EU-Aegwynn,CET,PVP,10,228
+EU-Agamaggan,CET,PVP,2,1
+EU-Aggra,CET,PVP,646,402
+EU-Ahn'Qiraj,CET,PVP,3,14
+EU-Al'Akir,CET,PVP,891,30
+EU-Anetheron,CET,PVP,5,31
+EU-Anub'arak,CET,PVP,9,8
+EU-Arak-arahm,CET,PVP,0,1
+EU-Arathi,CET,PVP,1,1
+EU-Archimonde,CET,PVP,649,462
+EU-Arthas,CET,PVP,8,126
+EU-Auchindoun,CET,PVP,17,27
+EU-Azshara,CET,PVP,718,53
+EU-Balnazzar,CET,PVP,15,61
+EU-Blackmoore,CET,PVP,10075,10093
+EU-Blackrock,CET,PVP,112,49
+EU-Bladefist,CET,PVP,15,3
+EU-Bloodfeather,CET,PVP,18,7
+EU-Bloodscalp,CET,PVP,15,5
+EU-Blutkessel,CET,PVP,7,4
+EU-Boulderfist,CET,PVP,10,2
+EU-Burning Blade,CET,PVP,9,13
+EU-Burning Legion,CET,PVP,63,886
+EU-Burning Steppes,CET,PVP,1,7
+EU-C'thun,CET,PVP,10,0
+EU-Cho'gall,CET,PVP,2790,1311
+EU-Chromaggus,CET,PVP,7,29
+EU-Crushridge,CET,PVP,0,1
+EU-Daggerspine,CET,PVP,3,4
+EU-Dalvengyr,CET,PVP,6,3
+EU-Darksorrow,CET,PVP,48,79
+EU-Deathwing,CET,PVP,6,0
+EU-Dentarg,CET,PVP,5,6
+EU-Destromath,CET,PVP,3805,254
+EU-Dethecus,CET,PVP,516,70
+EU-Dragonmaw,CET,PVP,5,0
+EU-Drak'thul,CET,PVP,36,22
+EU-Dun Modr,CET,PVP,0,20
+EU-Dunemaul,CET,PVP,17,1
+EU-Echsenkessel,CET,PVP,6,3
+EU-Eldre'thalas,CET,PVP,1,2
+EU-Emeriss,CET,PVP,1550,93
+EU-Eredar,CET,PVP,1927,26
+EU-Executus,CET,PVP,79,8
+EU-Festung der Stürme,CET,PVP,0,0
+EU-Frostmane,CET,PVP,20,34
+EU-Frostmourne,CET,PVP,5,26
+EU-Frostwhisper,CET,PVP,397,24
+EU-Frostwolf,CET,PVP,161,1081
+EU-Garona,CET,PVP,4,5
+EU-Genjuros,CET,PVP,9,3
+EU-Gorgonnash,CET,PVP,14,15
+EU-Grim Batol,CET,PVP,3144,41
+EU-Gul'dan,CET,PVP,8,233
+EU-Hakkar,CET,PVP,70,2
+EU-Haomarush,CET,PVP,9,1
+EU-Illidan,CET,PVP,8,15
+EU-Jaedenar,CET,PVP,42,0
+EU-Kael'Thas,CET,PVP,4,13
+EU-Karazhan,CET,PVP,14,0
+EU-Kazzak,CET,PVP,154,3
+EU-Kel'Thuzad,CET,PVP,10,12
+EU-Kil'Jaeden,CET,PVP,5,38
+EU-Kor'gall,CET,PVP,3,6
+EU-Krag'jin,CET,PVP,2,21
+EU-Laughing Skull,CET,PVP,6,6
+EU-Lightning's Blade,CET,PVP,310,32
+EU-Mal'Ganis,CET,PVP,22,1012
+EU-Mannoroth,CET,PVP,6,24
+EU-Molten Core,CET,PVP,0,0
+EU-Mug'thol,CET,PVP,202,114
+EU-Nathrezim,CET,PVP,20,10
+EU-Naxxramas,CET,PVP,133,170
+EU-Nazjatar,CET,PVP,9,8
+EU-Nefarian,CET,PVP,7,23
+EU-Nemesis,CET,PVP,103,17
+EU-Neptulon,CET,PVP,11,1787
+EU-Ner'zhul,CET,PVP,3,2
+EU-Nera'thor,CET,PVP,5,22
+EU-Onyxia,CET,PVP,5679,31
+EU-Outland,CET,PVP,4258,1780
+EU-Ragnaros,CET,PVP,10568,263
+EU-Rajaxx,CET,PVP,8,1
+EU-Rashgarroth,CET,PVP,6,3
+EU-Ravencrest,CET,PVP,7,65
+EU-Sargeras,CET,PVP,5,11
+EU-Shadowmoon,CET,PVP,0,0
+EU-Shattered Halls,CET,PVP,6,1
+EU-Shattered Hand,CET,PVP,68,8
+EU-Sinstralis,CET,PVP,166,76
+EU-Skullcrusher,CET,PVP,17,8
+EU-Spinebreaker,CET,PVP,10,4
+EU-Stonemaul,CET,PVP,0,0
+EU-Stormreaver,CET,PVP,941,207
+EU-Stormscale,CET,PVP,180,50
+EU-Sunstrider,CET,PVP,21,1
+EU-Sylvanas,CET,PVP,157,3464
+EU-Taerar,CET,PVP,112,319
+EU-Talnivarr,CET,PVP,11,4
+EU-Tarren Mill,CET,PVP,1036,2
+EU-Temple noir,CET,PVP,99,130
+EU-Terrordar,CET,PVP,5,3
+EU-The Maelstrom,CET,PVP,51,64
+EU-Theradras,CET,PVP,0,6
+EU-Throk'Feroth,CET,PVP,12,0
+EU-Trollbane,CET,PVP,0,25
+EU-Twilight's Hammer,CET,PVP,41,11
+EU-Twisting Nether,CET,PVP,1726,108
+EU-Uldum,CET,PVP,1,0
+EU-Vashj,CET,PVP,19,3
+EU-Vek'lor,CET,PVP,1,1
+EU-Warsong,CET,PVP,0,0
+EU-Wrathbringer,CET,PVP,42,16
+EU-Xavius,CET,PVP,10,17
+EU-Ysondre,CET,PVP,5,4
+EU-Zenedar,CET,PVP,8,2
+EU-Zul'jin,CET,PVP,5,1
+EU-Zuluhed,CET,PVP,16,25
+EU-Argent Dawn,CET,RP,22,24
+EU-Confrérie du Thorium,CET,RP,0,0
+EU-Darkmoon Faire,CET,RP,6,54
+EU-Der Mithrilorden,CET,RP,360,710
+EU-Der Rat von Dalaran,CET,RP,340,1155
+EU-Die Aldor,CET,RP,761,7767
+EU-Die ewige Wacht,CET,RP,567,2341
+EU-Die Nachtwache,CET,RP,2466,2797
+EU-Die Silberne Hand,CET,RP,281,831
+EU-Earthen Ring,CET,RP,1459,30
+EU-Forscherliga,CET,RP,415,745
+EU-Kirin Tor,CET,RP,1,2
+EU-Les Clairvoyants,CET,RP,186,302
+EU-Les Sentinelles,CET,RP,2016,61
+EU-Los Errantes,CET,RP,1,0
+EU-Moonglade,CET,RP,6,27
+EU-Steamwheedle Cartel,CET,RP,258,1231
+EU-The Sha'tar,CET,RP,9,136
+EU-Todeswache,CET,RP,747,566
+EU-Zirkel des Cenarius,CET,RP,663,2508
+EU-Conseil des Ombres,CET,RP-PVP,13,4
+EU-Culte de la Rive Noire,CET,RP-PVP,2,4
+EU-Das Konsortium,CET,RP-PVP,5,3
+EU-Das Syndikat,CET,RP-PVP,1,4
+EU-Defias Brotherhood,CET,RP-PVP,7280,385
+EU-Der abyssische Rat,CET,RP-PVP,2,3
+EU-Die Arguswacht,CET,RP-PVP,79,195
+EU-Die Todeskrallen,CET,RP-PVP,539,1536
+EU-Kult der Verdammten,CET,RP-PVP,17,13
+EU-La Croisade écarlate,CET,RP-PVP,0,0
+EU-Ravenholdt,CET,RP-PVP,7,1
+EU-Scarshield Legion,CET,RP-PVP,33,1483
+EU-Shen'dralar,CET,RP-PVP,0,1
+EU-Sporeggar,CET,RP-PVP,3,1
+EU-The Venture Co,CET,RP-PVP,4,3
+Aman'thul,UNKNOWN,PVE,4,12
+Caelestrasz,UNKNOWN,PVE,3,5
+Dath'Remar,UNKNOWN,PVE,2,8
+Khaz'goroth,UNKNOWN,PVE,10,588
+Nagrand,UNKNOWN,PVE,8,6
+Saurfang,UNKNOWN,PVE,1,7
+Barthilas,UNKNOWN,PVP,13,7
+Dreadmaul,UNKNOWN,PVP,3,4
+Frostmourne,UNKNOWN,PVP,9,23
+Gundrak,UNKNOWN,PVP,3,6
+Jubei'Thos,UNKNOWN,PVP,14,7
+Thaurissan,UNKNOWN,PVP,10,1
