@@ -28,9 +28,21 @@ for(i in seq_along(df)) {
   mins <- cbind(mins, min(df[,i], na.rm=T))
 }
 
-# 96 years is an outlier in this dataset.
-maxs
+# 96 years sure looks like an outlier...
+maxes
 hist(df$Age)
+
+# But is it an outlier, as commonly defined as three standard deviations away from the mean?
+age.mean <- mean(df$Age, na.rm=T)
+age.sd <- sd(df$Age,na.rm=T)
+
+# 40.52461
+variance <- (maxs[2] - age.mean) 
+# Not Quite, under that specific definition.
+variance >= (age.sd * 3)
+# But close enough I think to qualify as an outlier.
+age.sd * 3
+
 
 # Find the index of 96 in column 1.
 which(df$Age == 96)
