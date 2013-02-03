@@ -35,8 +35,8 @@ points = makePoints(numberOfClusters, dimensionLimits, is3rdDimBool, maxNumberOf
 % Guess for initial centroids
 centroids = intializeCentroids(numberOfClusters, points);
 
-points = simplePoints;
-centroids = [0, 0; -1, 0; 0, 1];
+%points = simplePoints;
+%centroids = [0, 0; -1, 0; 0, 1];
 
 % Rediculous initial value for cluster assignments
 clusterID = -1;
