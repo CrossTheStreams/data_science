@@ -19,36 +19,43 @@ sum(stuff)
 # How about by column?
 colSums(stuff)
 
-# Let's fetch the max and mins for each column, and then histogram those vectors!
-maxs <- c()
-mins <- c()
+# Let's see a summary of the data.
+summary(df)
 
-for(i in seq_along(df)) {
-  maxs <- cbind(maxs, max(df[,i], na.rm=T))
-  mins <- cbind(mins, min(df[,i], na.rm=T))
+# Fetch the index of an outlier.
+outlier.index <-function(x)
+{
+  a <- mean(x, na.rm=T);
+  a <- mean(x, na.rm=T);
+  s <- sd(x, na.rm=T);
+  e <- max(max(x, na.rm=T), abs(min(x, na.rm=T)), na.rm=T);
+  if (e > (a + 3*s)) {
+    x.abs <- abs(x)
+    return(which.max(x.abs))
+  }
+  else {
+    return(NA)
+  }
 }
 
-# 96 years sure looks like an outlier...
-maxes
-hist(df$Age)
+outlier.indexes <- c()
 
-# But is it an outlier, as commonly defined as three standard deviations away from the mean?
-age.mean <- mean(df$Age, na.rm=T)
-age.sd <- sd(df$Age,na.rm=T)
+for(i in 1:ncol(df)) {
+ outlier.indexes <- cbind(outlier.indexes,outlier.index(df[,i]))
+}
 
-# 40.52461
-variance <- (maxs[2] - age.mean) 
-# Not Quite, under that specific definition.
-variance >= (age.sd * 3)
-# But close enough I think to qualify as an outlier.
-age.sd * 3
+# 55 is clearly an outlier in the BI-RADS assessment column.
+df[outlier.indexes,1]
 
+hist(df[,1])
 
-# Find the index of 96 in column 1.
-which(df$Age == 96)
-# Let's get rid of the observation.
-df[726,] = NULL
-df[726,2]
+# Delete these rows.
+for(i in outlier.indexes) {
+  if (!is.na(i)) {
+    df <- df[-(i),]
+  }   
+}  
+
 
 # Changed Severity to Diseased.
 colnames(df)[6] <- "Diseased"
