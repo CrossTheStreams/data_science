@@ -1,3 +1,8 @@
+% Andrew Hautau
+% Intro to Data Science
+% Class 4 Assignment
+
+
 % simpleKMeans is a 2D K-means implementation.  
 % The function takes points and initial centroids and 
 % returns centroids K-mean centroids
