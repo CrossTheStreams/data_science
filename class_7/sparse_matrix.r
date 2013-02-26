@@ -1,5 +1,3 @@
-# package allows dynamic switching between dense and sparse matrices.
-# http://www.johnmyleswhite.com/notebook/2011/10/31/using-sparse-matrices-in-r/
 library('Matrix')
 
 # Collect observations for the dense matrix
